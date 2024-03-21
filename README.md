@@ -1,1 +1,4 @@
-# Personal_Website
+# Personal Profolio
+
+## Description 
+This is mine, Mike Bastidas, personal website.
